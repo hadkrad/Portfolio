@@ -14,12 +14,12 @@ NLP Doodle-Drawer with Google's Quickdraw API
 Always building new projects! Check back for more later.
 
 
-<p>Research Ideas</p>
+<b><p>Research Ideas</p></b>
 <p><a href="https://docs.google.com/document/d/e/2PACX-1vSQxW1l2fqAwS2G7KRgtTtDzBXy5YNNKv3zviJF50NQ-u0KebbyQidE_pmQQN-Wp8q8621i_VvPWIlp/pub">
   Using artificial neural networks to model novel brain experiences
 </a></p>
 
-<p>Guitar and Sound Design</p>
+<b><p>Guitar and Sound Design</p></b>
 <p><a href="https://youtu.be/BV51PzhVoZ4">Instrumental Single</a></p>
 <p><a href="https://www.instagram.com/hadee.guitarist/">My Instagram where I post Guitar videos</a></p>
 
