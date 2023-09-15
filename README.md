@@ -3,7 +3,7 @@
 Here are some video demos of projects I've made with some of my students at Coding Minds Academy
 
 <p><a href="https://www.loom.com/share/aebeec12226547c59433e9e997209474">
-Pose-Search with Google's Mediapipe API
+Pose-Search with Google's Mediapipe API (Most proud of this one)
 </a></p>
 
 <p><a href="https://www.loom.com/share/295bd546ccf446068b3d0fe7e494b7ed">
@@ -14,8 +14,12 @@ NLP Doodle-Drawer with Google's Quickdraw API
 Always building new projects! Check back for more later.
 
 
-
+<p>Research Ideas</p>
 <p><a href="https://docs.google.com/document/d/e/2PACX-1vSQxW1l2fqAwS2G7KRgtTtDzBXy5YNNKv3zviJF50NQ-u0KebbyQidE_pmQQN-Wp8q8621i_VvPWIlp/pub">
-  Research Ideas
+  Using artificial neural networks to model novel brain experiences
 </a></p>
+
+<p>Guitar and Sound Design</p>
+<p><a href="https://youtu.be/BV51PzhVoZ4">Instrumental Single</a></p>
+<p><a href="https://www.instagram.com/hadee.guitarist/">My Instagram where I post Guitar videos</a></p>
 
