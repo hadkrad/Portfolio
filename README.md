@@ -19,6 +19,8 @@ Always building new projects! Check back for more later.
   Using artificial neural networks to model novel brain experiences
 </a></p>*/ -->
 
+<!-- #path try to model alfven waves in brain it doesn't seem to be well researched -->
+
 <b>Guitar and Sound Design</b>
 <p><a href="https://youtu.be/BV51PzhVoZ4">Instrumental Single</a></p>
 <p><a href="https://www.instagram.com/hadee.guitarist/">My Instagram where I post Guitar videos</a></p>
