@@ -26,5 +26,6 @@ Always building new projects! Check back for more later.
 <p><a href="https://www.instagram.com/hadee.guitarist/">My Instagram where I post Guitar videos</a></p>
 
 <b>Game Development </b>
-<p><a href="https://drive.google.com/file/d/1x6gV44iLduQaTJHZRs0jD1cUHIz0cUXu/view?usp=sharing">Dodge the Creeps (Godot Dev Tutorial Game) for Windows</p>
+<p><a href="https://www.youtube.com/playlist?list=PLYNif8BguVGLP02m1FcSd9m_cKTmJwUOm">Development Vlog Progress on YouTube</p>
+<p><a href="https://drive.google.com/file/d/1x6gV44iLduQaTJHZRs0jD1cUHIz0cUXu/view?usp=sharing">Download Dodge the Creeps (Godot Dev Tutorial Game) for Windows</p>
 
